@@ -2,7 +2,7 @@ export const profile = {
   name: "Fatin Kazi",
   initials: "FK",
   role: "Full Stack Software Engineer",
-  profileImageUrl: "https://media.licdn.com/dms/image/v2/D5603AQF04WPzHQvmGQ/profile-displayphoto-crop_800_800/B56ZwyhnIyKMAI-/0/1770374200921?e=1777507200&v=beta&t=8D0wic9JJMd6QX_5poESdK6BQr27AB25ebQjcZGKJaU",
+  profileImageUrl: "https://media.licdn.com/dms/image/v2/D5603AQF04WPzHQvmGQ/profile-displayphoto-crop_800_800/B56ZwyhnIyKMAI-/0/1770374200921?e=1779926400&v=beta&t=sssoV8VBqTr1yI4rRp7lPrpsiuGNcJqb0DCCT2PzVjw",
   linkedinUrl: "https://www.linkedin.com/",
 };
 
